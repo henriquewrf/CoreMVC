@@ -15,7 +15,7 @@ namespace CoreMVC.Controllers
 
         public IActionResult FormCadDefault()
         {
-
+            return null;
         }
     }
 }
